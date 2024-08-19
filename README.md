@@ -35,7 +35,8 @@ parking_spot_monitoring/
 ### Installation
 To install the project dependencies, run the following command:
 ```bash
-git clone https://github.com/Milad0310/parking-spot-monitoring.git```
+git clone https://github.com/Milad0310/parking-spot-monitoring.git
+```
 
 ```bash
 pip install -r requirements.txt
