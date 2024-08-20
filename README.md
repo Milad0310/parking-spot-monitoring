@@ -22,8 +22,9 @@ The project utilizes a custom parking spot dataset sourced from Roboflow. The da
 ```
 parking_spot_monitoring/
 ├── models/
-│   ├── yolov8.pt
-│   ├── unet.pt
+│   ├── detection.py
+│   ├── segment.py
+│   ├──main.py
 ├── data/
 │   ├── train/
 │   ├── val/
